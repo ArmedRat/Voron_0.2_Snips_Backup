@@ -1,5 +1,2 @@
-*.bak
-*.bkp
-*.csv
-*.zip
-ShakeTune_results
+.env
+secrets.conf
